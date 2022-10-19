@@ -1,3 +1,3 @@
 ## Resume
 
-**https://sunny-melba-11e680.netlify.app/**
+![App Screenshot](https://i.ibb.co/5vyJCqh/Resume-Img.jpg)
