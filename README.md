@@ -1,3 +1,3 @@
 ## Resume
 
-![App Screenshot](https://i.ibb.co/mzRrcjn/Resume-Img.jpg)
+![App Screenshot](https://i.ibb.co/pdXgXP2/Anup-Goutam-Resume-pdf.jpg)
